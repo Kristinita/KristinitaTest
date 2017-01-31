@@ -1,1 +1,1 @@
-Repository for test GitHub features and code demonstrations.
+Miscellaneous codes.
